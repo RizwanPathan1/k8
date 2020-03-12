@@ -1,0 +1,26 @@
+version: '3'
+services:
+  web:
+    build: /var/lib/jenkins/cicd-k8/Dockerfile
+    ports: 
+      - '10202:80'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
